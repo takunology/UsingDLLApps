@@ -1,0 +1,16 @@
+F:\GitHub\UsingDLLApps\DLLApp\DLLApp\bin\Debug\netcoreapp3.0\DLLApp.exe
+F:\GitHub\UsingDLLApps\DLLApp\DLLApp\bin\Debug\netcoreapp3.0\DLLApp.deps.json
+F:\GitHub\UsingDLLApps\DLLApp\DLLApp\bin\Debug\netcoreapp3.0\DLLApp.runtimeconfig.json
+F:\GitHub\UsingDLLApps\DLLApp\DLLApp\bin\Debug\netcoreapp3.0\DLLApp.runtimeconfig.dev.json
+F:\GitHub\UsingDLLApps\DLLApp\DLLApp\bin\Debug\netcoreapp3.0\DLLApp.dll
+F:\GitHub\UsingDLLApps\DLLApp\DLLApp\bin\Debug\netcoreapp3.0\DLLApp.pdb
+F:\GitHub\UsingDLLApps\DLLApp\Build\netcoreapp3.0\DLLApp.exe
+F:\GitHub\UsingDLLApps\DLLApp\Build\netcoreapp3.0\DLLApp.deps.json
+F:\GitHub\UsingDLLApps\DLLApp\Build\netcoreapp3.0\DLLApp.runtimeconfig.json
+F:\GitHub\UsingDLLApps\DLLApp\Build\netcoreapp3.0\DLLApp.runtimeconfig.dev.json
+F:\GitHub\UsingDLLApps\DLLApp\Build\netcoreapp3.0\DLLApp.dll
+F:\GitHub\UsingDLLApps\DLLApp\Build\netcoreapp3.0\DLLApp.pdb
+F:\GitHub\UsingDLLApps\DLLApp\DLLApp\obj\Debug\netcoreapp3.0\DLLApp.AssemblyInfoInputs.cache
+F:\GitHub\UsingDLLApps\DLLApp\DLLApp\obj\Debug\netcoreapp3.0\DLLApp.AssemblyInfo.cs
+F:\GitHub\UsingDLLApps\DLLApp\DLLApp\obj\Debug\netcoreapp3.0\DLLApp.dll
+F:\GitHub\UsingDLLApps\DLLApp\DLLApp\obj\Debug\netcoreapp3.0\DLLApp.pdb
